@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#FA8BACE7</color>
+    <color name="colorAccent">#070707</color>
+    <color name="white">#F8F7F7</color>
+    <color name="trans">#00F8F7F7</color>
+    <color name="offwhite">#17FAFBFD</color>
+    <color name="signin">#775dff</color>
+    <color name="facebook">#1877f2</color>
+    <color name="googlebord">#4db3b3b3</color>
+    <color name="sinupword">#775dff</color>
+    <color name="black">#070707</color>
+    <color name="test">#669353AD</color>
+    <color name="card_start">#f1eeff</color>
+    <color name="card_end">#669353AD</color>
+    <color name="red">#D50618</color>
+    <color name="green">#E803500B</color>
+    <color name="textTicket">#775DFF</color>
+    <color name="backTicket">#DDE4E6ED</color>
+
+
+
+
+
+</resources>

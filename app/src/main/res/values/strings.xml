@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TestEvent</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="sign_in"><u>Sign in</u></string>
+    <string name="signup_page">Sign up</string>
+    <string name="signin_page">Sign in</string>
+    <string name="home_page">Home</string>
+    <string name="search_page">Search</string>
+    <string name="cat_page">Category</string>
+    <string name="tick_page">Ticket</string>
+    <string name="menu_page">Menu</string>
+
+    <string name="signin_text">Not yet a member , </string>
+    <string name="signup_text">You Are a Member , </string>
+
+    <string name="fullname_text">Full Name</string>
+    <string name="facebook_text">Facebook</string>
+    <string name="email_text">Email ID</string>
+    <string name="pass_text">Password</string>
+    <string name="todo">TODO</string>
+    <string name="or_text">Or</string>Featured Events
+    <string name="google_text">Google</string>
+    <string name="fav_text">Favorite Categories</string>
+    <string name="fav_event">Featured Events</string>
+    <string name="vall_text">view all</string>
+
+
+</resources>
